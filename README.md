@@ -10,4 +10,4 @@ API реализует два метода:
 ![image](https://github.com/user-attachments/assets/b0c8fc55-9c30-4758-802b-733e98a035a0)
 
 ## Используемый стек:
-- Backend: .NET Core 8, ASP.NET Core, Entity Framework, Quartz, MailKit, AutoMapper, MS SQL, Swagger, Docker.
+- Backend: .NET Core 8, ASP.NET, Entity Framework, Quartz, MailKit, AutoMapper, MS SQL, Swagger, Docker.
