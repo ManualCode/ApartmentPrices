@@ -32,7 +32,7 @@ builder.Services.AddQuartz(q =>
         .ForJob(jobKey)
         .WithIdentity("PiceScheduler-trigger")
         .WithSimpleSchedule(x => x
-                .WithIntervalInMinutes(1)
+                .WithIntervalInMinutes(20)
                 .RepeatForever())
     );
 });
